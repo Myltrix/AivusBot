@@ -1,2 +1,1 @@
-# AIBot
-This project is a simple Telegram bot that allows users to communicate with AI. The bot responds to messages, maintains a conversation, and can be used as a personal assistant.
+Этот проект представляет собой простой Telegram-бот, позволяющий пользователям общаться с искусственным интеллектом. Бот отвечает на сообщения, поддерживает беседу и может использоваться в качестве личного помощника.
