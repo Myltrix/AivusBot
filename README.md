@@ -16,7 +16,7 @@
         </div>
       </p>
       <p style="font-size: 14px; color: #666; font-style: italic; margin-top: 15px;">
-        This is standard Telegram bot code, nothing special — just a working example of AI integration in a messenger.
+        This is standard Telegram bot code, nothing special - just a working example of AI integration in a messenger.
       </p>
     </td>
   </tr>
