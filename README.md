@@ -8,11 +8,6 @@
       <p style="font-size: 16px; line-height: 1.6; color: #333;">
         AIBot is a simple Telegram bot that allows users to communicate with AI. It responds to messages, maintains conversations, and can be used as a personal assistant.
       </p>
-      <p style="font-size: 16px;">
-        <strong style="color: #d4a574;">Live :</strong><br>
-        <a href="https://myltrix.github.io/Bookly/" target="_blank" style="color: #b8860b; font-weight: bold; text-decoration: none; font-size: 18px;">
-          https://myltrix.github.io/Bookly/
-        </a>
       </p>
       <p style="font-size: 16px;">
         <strong style="color: #d4a574;">Built with:</strong><br>
