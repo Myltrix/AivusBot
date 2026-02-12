@@ -6,7 +6,7 @@
     <td style="padding-left: 30px;">
       <h1 style="color: #d4a574; margin-top: 0;">AIBot</h1>
       <p style="font-size: 16px; line-height: 1.6; color: #333;">
-        Bookly is a minimalist online bookstore web application. It allows users to browse books, view details, and explore a clean, modern interface designed with simplicity and usability in mind.
+        AIBot is a simple Telegram bot that allows users to communicate with AI. It responds to messages, maintains conversations, and can be used as a personal assistant.
       </p>
       <p style="font-size: 16px;">
         <strong style="color: #d4a574;">Live :</strong><br>
