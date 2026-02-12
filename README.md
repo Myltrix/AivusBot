@@ -100,7 +100,7 @@ GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
 # ▶️ Run the Bot
 
 ```bash
-python bot.py
+python AIBot.py
 ```
 
 Your AI-powered Telegram bot is now ready to use.
