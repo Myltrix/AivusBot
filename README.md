@@ -94,4 +94,4 @@ GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 python AivusBot.py
 ```
 
-Your AI-powered Telegram bot is now ready to use.
+Your Telegram bot is now ready to use.
