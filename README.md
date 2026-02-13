@@ -1,17 +1,17 @@
 <table>
   <tr>
     <td width="35%">
-      <img src="AIBot.png" alt="AIBot" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <img src="AivusBot.png" alt="AIBot" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     </td>
     <td style="padding-left: 30px;">
-      <h1 style="color: #d4a574; margin-top: 0;">AIBot</h1>
+      <h1 style="color: #d4a574; margin-top: 0;">AivusBot</h1>
       <p style="font-size: 16px; line-height: 1.6; color: #333;">
-        AIBot is a simple Telegram bot that allows users to communicate with AI. It responds to messages, maintains conversations, and can be used as a personal assistant.
+        AivusBot is a simple Telegram bot that allows users to communicate with AI. It responds to messages, maintains conversations, and can be used as a personal assistant.
       </p>
       <p style="font-size: 16px;">
         <strong style="color: #2a7de1;">Bot:</strong><br>
-        <a href="https://t.me/AIBot" target="_blank" style="color: #2a7de1; font-weight: bold; text-decoration: none; font-size: 18px;">
-          https://t.me/AIBot
+        <a href="https://t.me/AivusBot" target="_blank" style="color: #2a7de1; font-weight: bold; text-decoration: none; font-size: 18px;">
+          https://t.me/AivusBot
         </a>
       </p>
       <p style="font-size: 16px;">
@@ -32,7 +32,7 @@
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/Myltrix/AIBot.git
+git clone https://github.com/Myltrix/AivusBot.git
 cd AIBot
 ```
 
@@ -91,7 +91,7 @@ GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
 # ▶️ Run the Bot
 
 ```bash
-python AIBot.py
+python AivusBot.py
 ```
 
 Your AI-powered Telegram bot is now ready to use.
