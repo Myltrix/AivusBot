@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/Myltrix/AivusBot.git
-cd AIBot
+cd AivusBot
 ```
 
 ## 2. Install dependencies
