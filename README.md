@@ -65,9 +65,7 @@ TELEGRAM_TOKEN="YOUR_TELEGRAM_BOT_TOKEN"
 
 # 🔐 How to Add Your Gemini API Key
 
-1. Go to Google AI Studio API Key page:
-   [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
-   *(or search “Gemini API key” if needed)*
+1. Go to Google AI Studio API Key page: [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
 2. Click **Create API key**
 
