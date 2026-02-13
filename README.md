@@ -22,19 +22,12 @@
   </tr>
 </table>
 
-# 📚 About the Project
-
-AIBot is a lightweight Telegram-based AI assistant powered by Google Gemini.
-It receives user messages, sends them to the AI model, and returns intelligent, context-aware responses.
-
----
-
 # ⚙️ Installation
 
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/AIBot.git
+git clone https://github.com/Myltrix/AIBot.git
 cd AIBot
 ```
 
@@ -48,8 +41,7 @@ pip install -r requirements.txt
 
 # 🔑 How to Add Your Telegram Bot Token
 
-1. Open Telegram and go to **BotFather**:  
-   👉 https://t.me/BotFather
+1. Open Telegram and go to **BotFather**: [https://t.me/BotFather](https://t.me/BotFather)
 2. Send `/start`
 3. Create a new bot:
 
